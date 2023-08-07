@@ -1,0 +1,23 @@
+settings =
+{
+	--[[
+	orientation = {
+		default = "portrait", 
+		supported = { "portrait", },
+	},
+	--]]
+  
+	plugins =
+	{
+		["plugin.firebaseDatabase"] =
+        {
+            publisherId = "tech.scotth",
+            marketplaceId = "[your solar2dMarketplace id]",
+        },
+	},
+  
+	android =
+    {
+        useGoogleServicesJson = true,
+    },
+}
