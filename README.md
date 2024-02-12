@@ -1,9 +1,18 @@
-# Mini Greens
+<p align="center">
+    <img width="200" alt="Game Logo" src="https://github.com/alexstarosta/mini-greens/assets/110436783/601034c4-a3a8-4fb4-8d13-970d645a47c4">
+</p>
 
-Mini Greens is a Lua-based mini-golf level creator and player that allows you to design custom mini-golf levels with multiple levels of customization.
+<p align="center"><strong>Custom mini-golf levels, done easy</strong></p>
+<br/>
+
+<h2 align="center">Mini Greens</h2>
+<br/>
+<p align="center">
+  A Lua-based mini-golf level creator and player that allows you to design custom mini-golf levels with multiple levels of customization.
+</p>
+<br/>
 
 ## Features
-
 - Create custom mini golf levels with ease
 - Customize terrain, obstacles, and aesthetics
 - Firebase Realtime Database integration for level sharing
